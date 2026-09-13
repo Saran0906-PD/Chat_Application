@@ -4,7 +4,7 @@ A modern, production-grade, real-time messaging application built with the MERN 
 
 Designed for high performance, security, and smooth cross-domain production deployment on **Vercel** (Frontend) and **Render** (Backend).
 
-🌐 **Live Application**: [[https://syncrona.vercel.app](https://chat-application-o5so.onrender.com/)]([https://syncrona.vercel.app](https://chat-application-o5so.onrender.com/))  
+🌐 **Live Application**: [[https://render.com/](https://chat-application-o5so.onrender.com/)]([https://chat-application-o5so.onrender.com/login](https://chat-application-o5so.onrender.com/))  
 ---
 
 
