@@ -1,4 +1,4 @@
-# QuickChat (Syncrona) 💬
+# QuickChat (Uraiyaadal) 💬
 
 A modern, production-grade, real-time messaging application built with the MERN stack (MongoDB, Express, React, Node.js), Socket.IO, Google OAuth, and Cloudinary.
 
